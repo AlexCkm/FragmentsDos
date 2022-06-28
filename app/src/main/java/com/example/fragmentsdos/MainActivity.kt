@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+
         binding.btnSiguiente.setOnClickListener {
             val myIntent = Intent(this, ResultActivity::class.java)
             startActivity(myIntent)

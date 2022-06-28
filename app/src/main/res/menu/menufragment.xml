@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/opCopy"
+        android:title="@string/opCut"
+        android:icon="@drawable/ic_cut"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/opCut"
+        android:title="@string/opCopy"
+        android:icon="@drawable/ic_copy"
+        android:orderInCategory="5"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/opComent"
+        android:title="@string/opComent"
+        android:icon="@drawable/ic_coment"
+        android:orderInCategory="6"
+        app:showAsAction="ifRoom|withText"/>
+</menu>

@@ -14,6 +14,7 @@ class ResultActivity : AppCompatActivity() {
         binding = ActivityResultBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+
         val fragment3 = ThirdFragment()
         val fragment4 = FourthFragment()
         val fragment5 = FifthFragment()

@@ -6,4 +6,9 @@
     <string name="Fragment3">Frag3</string>
     <string name="Fragment4">Frag4</string>
     <string name="Fragment5">Frag5</string>
+    <string name="opComent">opComent</string>
+    <string name="opCopy">opCopy</string>
+    <string name="opCut">opCut</string>
+    <string name="Dialogo_confirmado_borrado">Dialogo confirmado borrado</string>
+    <string name="Aceptar">Aceptar</string>
 </resources>
